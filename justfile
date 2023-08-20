@@ -4,7 +4,7 @@ default:
 
 # format all nix files
 format:
-    @nixpkgs-fmt **/*.nix **/**/*.nix **/**/**/*.nix
+    @nixpkgs-fmt **/*.nix **/**/*.nix
 
 # list all exisiting generations
 list:
